@@ -1,0 +1,12 @@
+{
+  "is_test_mode": false,
+  "preferences": {
+    "payment_button_text": "Donate Now",
+    "payment_button_theme": "brand-color",
+    "merchant_brand_color": "rgb(82,143,240)",
+    "branding": {
+      "show_rzp_logo": true,
+      "branding_logo": ""
+    }
+  }
+}
